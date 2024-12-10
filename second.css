@@ -1,0 +1,64 @@
+body{
+    width:1200px;
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+span{
+   
+    padding-bottom: 5px;
+}
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.profile{
+    text-align: left;
+    margin: 60px 0;
+}
+.pt60{
+display: inline-block;
+width: 50%;
+vertical-align: top;
+padding-left: 90px;
+padding-top: 10px;
+}
+.title{
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 80%;
+    margin-bottom: 50px;
+}
+.pt40{
+display: inline-block;
+width: 40%;
+height: 600px;
+}
+p{
+    color: #444;
+}
+.btn{
+    text-transform: uppercase;
+    color: red;
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid red;
+    padding: 12px;
+}
+.center{
+    text-align: center;
+}
+.stats div {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; 
+    width: 30%; 
+    text-align: left;
+  }
+  
+  .stats span {
+    font-size: 45px;
+    font-weight: bold;
+    color: red; 
+  }
